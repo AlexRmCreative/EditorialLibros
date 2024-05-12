@@ -1,0 +1,80 @@
+﻿@page "/login"
+@using System.IO;
+@using System.Text.Json;
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title text-center">Iniciar sesión</h3>
+                    <form @onsubmit="HandleSubmit">
+                        <div class="mb-3">
+                            <label for="inputEmail" class="form-label">Correo electrónico</label>
+                            <input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" placeholder="Ingrese su correo electrónico" @bind="EmailAddress" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="inputPassword" class="form-label">Contraseña</label>
+                            <input type="password" class="form-control" id="inputPassword" placeholder="Contraseña" @bind="Password" required>
+                        </div>
+                        <div class="text-center">
+                            <button type="submit" class="btn btn-primary">Iniciar sesión</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@if (confirmation)
+{
+    <div class="modal" tabindex="-1" style="display:block">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Inicio de sesión exitoso</h5>
+                    <button type="button" class="btn-close" @onclick="() => CloseModal()"></button>
+                </div>
+                <div class="modal-body">
+                    Has iniciado sesión exitosamente.
+                </div>
+                <div class="modal-footer">
+                    <a href="/#" class="btn btn-secondary">Cerrar</a>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@code {
+    private bool confirmation = false;
+    private string EmailAddress { get; set; }
+    private string Password { get; set; }
+    private LoginInfo loginInfo = new LoginInfo();
+
+    private void HandleSubmit()
+    {
+        if (!string.IsNullOrWhiteSpace(EmailAddress) && !string.IsNullOrWhiteSpace(Password))
+        {
+            confirmation = true;
+            loginInfo.Email = EmailAddress;
+            loginInfo.IsLoggedIn = true;
+
+            string json = JsonSerializer.Serialize(loginInfo);
+            Console.WriteLine(json);
+            File.WriteAllText("loginInfo.json", json);
+            Console.WriteLine(json);
+
+        }
+        else
+        {
+            confirmation = false;
+        }
+    }
+
+    private void CloseModal()
+    {
+        confirmation = false;
+    }
+}
