@@ -1,0 +1,209 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\EditorialDeLibros.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EditorialDeLibros.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\css\\book.css",
+      "PackagePath": "staticwebassets\\css\\book.css"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\21 lecciones para el siglo XXI.png",
+      "PackagePath": "staticwebassets\\img\\Books\\21 lecciones para el siglo XXI.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Anna Karenina.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Anna Karenina.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Breve historia del tiempo.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Breve historia del tiempo.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Charlie y la fábrica de chocolate.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Charlie y la fábrica de chocolate.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Come. reza, ama.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Come. reza, ama.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Cosmos.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Cosmos.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Crimen y castigo.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Crimen y castigo.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Crónica de una muerte anunciada.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Crónica de una muerte anunciada.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Don Quijote de la Mancha.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Don Quijote de la Mancha.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\El Principito.png",
+      "PackagePath": "staticwebassets\\img\\Books\\El Principito.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\El arte de no amargarse la vida.png",
+      "PackagePath": "staticwebassets\\img\\Books\\El arte de no amargarse la vida.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\El camino del artista.png",
+      "PackagePath": "staticwebassets\\img\\Books\\El camino del artista.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\El código de la felicidad.png",
+      "PackagePath": "staticwebassets\\img\\Books\\El código de la felicidad.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\El gen egoísta.png",
+      "PackagePath": "staticwebassets\\img\\Books\\El gen egoísta.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\El gran Gatsby.png",
+      "PackagePath": "staticwebassets\\img\\Books\\El gran Gatsby.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\El libro de la selva.png",
+      "PackagePath": "staticwebassets\\img\\Books\\El libro de la selva.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\El mago de Oz.png",
+      "PackagePath": "staticwebassets\\img\\Books\\El mago de Oz.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\El monje que vendió su Ferrari.png",
+      "PackagePath": "staticwebassets\\img\\Books\\El monje que vendió su Ferrari.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\El nombre de la rosa.png",
+      "PackagePath": "staticwebassets\\img\\Books\\El nombre de la rosa.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\El origen de las especies.png",
+      "PackagePath": "staticwebassets\\img\\Books\\El origen de las especies.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\El poder del ahora.png",
+      "PackagePath": "staticwebassets\\img\\Books\\El poder del ahora.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\El señor de los anillos.png",
+      "PackagePath": "staticwebassets\\img\\Books\\El señor de los anillos.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Guns, Germs, and Steel The Fates of Human Societies.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Guns, Germs, and Steel The Fates of Human Societies.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Harry Potter y la piedra filosofal.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Harry Potter y la piedra filosofal.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Homo Deus Breve historia del mañana.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Homo Deus Breve historia del mañana.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Homo sapiens Breve historia de la humanidad.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Homo sapiens Breve historia de la humanidad.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\La historia interminable.png",
+      "PackagePath": "staticwebassets\\img\\Books\\La historia interminable.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\La magia del orden.png",
+      "PackagePath": "staticwebassets\\img\\Books\\La magia del orden.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\La semana laboral de 4 horas.png",
+      "PackagePath": "staticwebassets\\img\\Books\\La semana laboral de 4 horas.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Las aventuras de Sherlock Holmes.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Las aventuras de Sherlock Holmes.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Las crónicas de Narnia El león, la bruja y el armario.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Las crónicas de Narnia El león, la bruja y el armario.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Matilda.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Matilda.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Meditar día a día 25 lecciones para vivir con mindfulness.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Meditar día a día 25 lecciones para vivir con mindfulness.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Mikecrack.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Mikecrack.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Moby Dick.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Moby Dick.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Percy Jackson y el ladrón del rayo.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Percy Jackson y el ladrón del rayo.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Sapiens De animales a dioses.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Sapiens De animales a dioses.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Una breve historia de casi todo.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Una breve historia de casi todo.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\Vivir con abundancia.png",
+      "PackagePath": "staticwebassets\\img\\Books\\Vivir con abundancia.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\Books\\orgullo y prejuicio.png",
+      "PackagePath": "staticwebassets\\img\\Books\\orgullo y prejuicio.png"
+    },
+    {
+      "Id": "C:\\Users\\aleja\\source\\repos\\EditorialLibros\\wwwroot\\img\\editorial_logo.png",
+      "PackagePath": "staticwebassets\\img\\editorial_logo.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.EditorialDeLibros.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.EditorialDeLibros.props",
+      "PackagePath": "build\\EditorialDeLibros.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EditorialDeLibros.props",
+      "PackagePath": "buildMultiTargeting\\EditorialDeLibros.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.EditorialDeLibros.props",
+      "PackagePath": "buildTransitive\\EditorialDeLibros.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

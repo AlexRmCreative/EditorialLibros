@@ -1,0 +1,9 @@
+C:\Users\aleja\source\repos\EditorialLibros\bin\Release\net8.0\publish\EditorialDeLibros.exe
+C:\Users\aleja\source\repos\EditorialLibros\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\aleja\source\repos\EditorialLibros\bin\Release\net8.0\publish\appsettings.json
+C:\Users\aleja\source\repos\EditorialLibros\bin\Release\net8.0\publish\loginInfo.json
+C:\Users\aleja\source\repos\EditorialLibros\bin\Release\net8.0\publish\EditorialDeLibros.dll
+C:\Users\aleja\source\repos\EditorialLibros\bin\Release\net8.0\publish\EditorialDeLibros.deps.json
+C:\Users\aleja\source\repos\EditorialLibros\bin\Release\net8.0\publish\EditorialDeLibros.runtimeconfig.json
+C:\Users\aleja\source\repos\EditorialLibros\bin\Release\net8.0\publish\EditorialDeLibros.pdb
+C:\Users\aleja\source\repos\EditorialLibros\bin\Release\net8.0\publish\Newtonsoft.Json.dll
